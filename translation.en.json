@@ -1,3 +1,8 @@
 {
-  "test_translation": "TEST"
+  "weblate": {
+    "hello": "Ahoj světe!\n",
+    "orangutan": "",
+    "try": "",
+    "thanks": ""
+  }
 }
