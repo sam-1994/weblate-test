@@ -1,3 +1,9 @@
 {
-  "test_translation": "TEST"
+  "test_translation": "",
+  "weblate": {
+        "hello": "",
+        "orangutan": "",
+        "try": "",
+        "thanks": ""
+    }
 }
