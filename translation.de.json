@@ -1,3 +1,7 @@
 {
-    "test_translation": "Test Übersetzung"
+    "test_translation": "Test Übersetzung",
+    "weblate": {
+        "hello": "Hallo",
+        "thanks": "Danke"
+    }
 }
