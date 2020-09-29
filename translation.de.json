@@ -2,6 +2,8 @@
     "test_translation": "Test Übersetzung",
     "weblate": {
         "hello": "Hallo",
-        "thanks": "Danke"
+        "thanks": "Danke!",
+        "try": "Versuchen",
+        "orangutan": "orangutan"
     }
 }
